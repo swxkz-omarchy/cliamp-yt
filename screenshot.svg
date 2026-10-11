@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" style="font-family:system-ui,sans-serif; background:#181828; color:#f0f0f0;">
+  <rect x="0" y="0" width="720" height="400" fill="#181828"/>
+  <!-- Title -->
+  <text x="24" y="42" font-size="28" font-weight="bold" fill="#ffb86c">C L I A M P</text>
+  <text x="24" y="68" font-size="13" fill="#50fa7b">[Playlist]   [Shuffle]   [Repeat: Off]   [1/19]</text>
+  <!-- Separator -->
+  <line x1="24" y1="86" x2="696" y2="86" stroke="#6272a4" stroke-width="2"/>
+  <!-- Tracks -->
+  <g font-size="12" fill="#f8f8f2">
+    <text x="24" y="112">1. Yes Theory — I Explored A $200,000,000 Forgotten Space Colony</text>
+    <text x="620" y="112" text-anchor="end" fill="#ff79c6">16:09</text>
+    <text x="24" y="134">2. Smosh Alike — I spent a day with REALITY TV STARS</text>
+    <text x="620" y="134" text-anchor="end" fill="#ff79c6">19:18</text>
+    <text x="24" y="156">3. Dolan Twins — I Surprised Him With His Least Favorite TikToker</text>
+    <text x="620" y="156" text-anchor="end" fill="#ff79c6">15:42</text>
+    <text x="24" y="178">4. Nintendo — Animal Crossing: New Horizons Summer Update - Wave 2</text>
+    <text x="620" y="178" text-anchor="end" fill="#ff79c6">1:54</text>
+    <text x="24" y="200">5. Jennelle Eliana — ACTUALLY STARTING MY RV BUILD: DEMOLITION</text>
+    <text x="620" y="200" text-anchor="end" fill="#ff79c6">5:32</text>
+    <text x="24" y="222">6. NFL — #1: Lamar Jackson (QB, Ravens) | Top 100 NFL Players of 2020</text>
+    <text x="620" y="222" text-anchor="end" fill="#ff79c6">7:13</text>
+    <text x="24" y="244">7. Beyoncé — Beyoncé, Shatta Wale, Major Lazer – ALREADY (Official Video)</text>
+    <text x="620" y="244" text-anchor="end" fill="#ff79c6">4:46</text>
+  </g>
+  <!-- Separator bottom -->
+  <line x1="24" y1="272" x2="696" y2="272" stroke="#6272a4" stroke-width="1" stroke-dasharray="6 4"/>
+  <!-- EQ / visualizer -->
+  <rect x="24" y="290" width="320" height="24" rx="4" fill="#2a2a3c" stroke="#6272a4" stroke-width="1"/>
+  <text x="40" y="306" font-size="11" fill="#f8f8f2">EQ [Custom]  70  180  320  600  1k  3k  6k  12k  14k  16k</text>
+  <rect x="368" y="290" width="200" height="10" rx="3" fill="#50fa7b" opacity="0.8"/>
+  <text x="580" y="306" font-size="11" fill="#ff79c6">VOL ██████████░░░ +0dB</text>
+  <!-- Source line -->
+  <text x="24" y="330" font-size="10" fill="#50fa7b">SRC [Radio]  1/2</text>
+  <text x="24" y="346" font-size="10" fill="#6272a4">▸— Playlist — [Shuffle] [Repeat: Off] [1/19] —</text>
+  <!-- Status -->
+  <text x="24" y="370" font-size="14" fill="#ffb86c" font-weight="bold">♪ Now playing in cliamp  —  19 tracks  ·  3h 45m</text>
+  <!-- Keybinding hint -->
+  <text x="24" y="390" font-size="9" fill="#6272a4">Space=play  ?=help  n=next  p=prev  q=quit  v=vis  c=clear  a=queue</text>
+</svg>
