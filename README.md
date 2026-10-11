@@ -73,4 +73,5 @@ python3 ~/.local/share/ytplay/test_ytplay.py
 Covers target normalization, error formatting, failure hints, and argument
 validation. 27 tests, no dependencies.
 ## Screenshot
-The `screenshot.svg` shows cliamp loading a playlist via `ytplay`: the retro TUI with the title bar (`C L I A M P`), the playlist header (`[Playlist] [Shuffle] [Repeat: Off] [1/19]`), numbered tracks with artists and durations (`1. Yes Theory — ... 16:09`), the separator line, EQ bar (`EQ [Custom] ...`), volume (`VOL ██████████░░░ +0dB`), source (`SRC [Radio] 1/2`), and the keybinding bar (`Space=play ?=help ...`).
+
+The `screenshot.svg` shows cliamp loading a playlist via `ytplay`: the retro TUI with the title bar (`C L I A M P`), playlist header (`[Playlist] [Shuffle] [Repeat: Off] [1/19]`), numbered tracks with artists and durations, EQ bar, volume indicator, and the keybinding bar (`Space=play ?=help ...`).
